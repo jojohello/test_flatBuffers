@@ -1,0 +1,7 @@
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\bin\Debug\test_csharp.exe.config
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\bin\Debug\test_csharp.exe
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\bin\Debug\test_csharp.pdb
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\obj\Debug\test_csharp.csprojResolveAssemblyReference.cache
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\obj\Debug\test_csharp.exe
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\obj\Debug\test_csharp.pdb
+F:\work\test_flatBuffers\CSharpSample\test_csharp\test_csharp\bin\Debug\AssemblyInfo.exe.config

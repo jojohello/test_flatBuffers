@@ -1,0 +1,13 @@
+﻿struct Grid
+{
+	x:int;
+	y:int;
+}
+
+table MapInfo
+{
+	mapWidth:int = 0;
+	mapHeight:int = 0;
+	
+	collisionGrids:[Grid];
+}
